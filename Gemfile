@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-group :production do
-  ruby '2.0.0'
-end
+# group :production do
+#   ruby '2.0.0'
+# end
 
 gem 'rails', '3.2.13'
 
